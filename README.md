@@ -1,4 +1,4 @@
-# Mango-website
+# RN-Mangoes
 <html>
 <head>
   <meta charset="UTF-8" />
