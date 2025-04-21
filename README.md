@@ -66,12 +66,12 @@
 
 <header>
   <h1>RN Mango Traders</h1>
-  <p>Delivering the Freshest Mangoes from Orchard to Market — Since 2009</p>
+  <p>Delivering the Freshest Mangoes from Orchard to Market — Since 2000</p>
 </header>
 
 <section>
   <h2>About Us</h2>
-  <p>With over 15 years of experience in the mango business, we specialize in sourcing premium quality mangoes directly from trusted orchards and supplying them to leading fruit traders and distributors across India.</p>
+  <p>With over 25 years of experience in the mango business, we specialize in sourcing premium quality mangoes directly from trusted orchards and supplying them to leading fruit traders and distributors across India.</p>
 </section>
 
 <section>
@@ -82,7 +82,7 @@
       <p>We buy mangoes straight from the source — ensuring authentic taste and unbeatable freshness.</p>
     </div>
     <div>
-      <h3>15+ Years of Expertise</h3>
+      <h3>25+ Years of Expertise</h3>
       <p>Trusted by many businessmen for consistent quality and reliable service.</p>
     </div>
     <div>
